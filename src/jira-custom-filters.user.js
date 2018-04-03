@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Jira Filters
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/D4ST1N/jira-custom-filters/
 // @version      1.0.1
 // @description  Jira Custom Filters without admin access
 // @author       D4ST1N
+// @license MIT
 // @require      https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js
 // @match        https://jira.betlab.com/*
 // @grant        none
